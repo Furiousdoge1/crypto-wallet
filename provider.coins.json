@@ -3764,6 +3764,11 @@
             "external_id": { "coingecko": "balpha", "cryptocompare": "BALPHA" }
         },
         {
+            "id": "bep20|0x7a5ce6abd131ea6b148a022cb76fc180ae3315a6",
+            "code": "BALOO",
+            "name": "Baloo",
+        },
+        {
             "id": "erc20|0xf56842af3b56fd72d17cb103f92d027bba912e89",
             "code": "bamboo",
             "name": "BambooDeFi",
