@@ -1216,6 +1216,43 @@
           ]
       },
       {
+          "code": "BALOO",
+          "name": "Baloo",
+          "categories": ["memes, digital wallet"],
+          "active": true,
+          "platform": {
+              "name": "binance smart chain",
+              "address": "0xba100000625a3754423978a60c9317c58a424e3d",
+              "type": "bep20"
+          },
+          "description": "### Project Description\n\nBalancer is a decentralzied exchange with automated portoflio management and rebalancing capabilities. The project initially started in early 2018 and launched in March 2020.\n\nWhen swapping tokens on Balancer, it filters through all available pools in the platform (containing requested tokens) and spreads the order to provide the best possible price.\n\nThe Balancer team came up with a powerful mathematical framework that enables token portfolios to continuously self-rebalance while also generating fees.\n\nJust like other decentralized exchanges, Balancer enables liquidity providers earn rewards from trading fees.\n\n### Token Description\n\nThe native token on Balancer protocol is BAL. The token provides governance rights and can be used for decision making on protocol changes.\n\n### Token Emission\n\nThe total supply of BAL is 100 million tokens:\n\n- 25 million BAL tokens are initially allocated to founders, core developers, advisors and investors, all subject to vesting periods.\n- 5 million allocated to ecosystem fund to foster the protocol.\n- 5 million is a fundraising fund for future funding.\n- 65 million will be distributed to liquidity providers where 7.5 million new BAL tokens expected to enter circulation annually.\n\nThe proposed amount of distributed BALs to liquidity providers is 145,000 per week. In the first year of BAL’s existence there would be 30% supply inflation off the initially allocated supply of 25M tokens. \n\nAt this rate, it would take 8.666 years to distribute the whole 65M BAL remaining until the 100M cap is reached.",
+          "links": {
+              "website": "https://baloo.bio/",
+              "whitepaper": "",
+              "guide": "",
+              "twitter": "https://twitter.com/baloo_bio",
+              "github": "https://github.com/balancer-labs/balancer-core",
+              "reddit": "",
+              "telegram": "t.me/baloo_bio"
+          },
+          "security": {
+              "privacy": "high",
+              "decentralized": true,
+              "confiscation_resistance": true,
+              "censorship_resistance": true
+          },
+          "rating": "",
+          "id": "bep20|0xba100000625a3754423978a60c9317c58a424e3d",
+          "funds": [
+              "three_arrows_capital",
+              "alameda_research_",
+              "placeholder",
+              "pantera_capital",
+              "coinfund",
+              "divergence_ventures"
+          ]
+      },
+      {
           "code": "BAND",
           "name": "Band Protocol",
           "categories": ["oracles"],
